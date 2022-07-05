@@ -1,0 +1,6 @@
+/faces
+/scenes
+/.idea
+venv
+*.iml
+face_training_data.json
