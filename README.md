@@ -11,6 +11,6 @@ and export them into smaller clips.
 ### Screenshots
 *Data displayed in examples is not real!*
 
+![Help Menu](screenshots/help.png)
 ![CLI](screenshots/cli.png)
-![Points Earned Graph](screenshots/points_earned_graph.png)
-![Points Earned Difference Graph](screenshots/points_earned_more_than_previous_day.png)
+![Video Preview](screenshots/video_preview.png)
